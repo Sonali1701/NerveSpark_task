@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue or contact [your-email@example.com](mailto:your-email@example.com)
+For questions or feedback, please open an issue or contact [your-email@example.com](mailto:vs5106717@example.com)
 
 ## 🚀 Quick Start
 
