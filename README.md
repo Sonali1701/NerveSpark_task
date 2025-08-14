@@ -153,9 +153,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses [Sentence Transformers](https://www.sbert.net/) for embeddings
 - Inspired by modern recommendation systems in e-commerce
 
-## 📧 Contact
-
-For questions or feedback, please open an issue or contact [your-email@example.com](mailto:vs5106717@example.com)
 
 ## 🚀 Quick Start
 
