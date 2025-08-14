@@ -6,13 +6,6 @@
 
 A state-of-the-art Retrieval-Augmented Generation (RAG) system that revolutionizes e-commerce product discovery. This system combines multi-source product data with advanced AI to deliver intelligent recommendations and comparisons.
 
-## 🔍 Demo
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.streamlit.app/)
-
-https://github.com/yourusername/ecommerce-rag/assets/12345678/example-gif
-
-*Screenshot: Interactive product comparison and recommendation interface*
 
 ## ✨ Core Features
 
